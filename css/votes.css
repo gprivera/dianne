@@ -1,0 +1,87 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+  background-color: #CCC;
+}
+
+#container {
+  background-color: #FFF;
+  width: 960px;
+  height: 1000px;
+  margin: auto;
+}
+
+#img1 {
+  width: 205px;
+  height: 305px;
+  z-index: 1;
+  position: absolute;
+  margin-left: 230px;
+  margin-top: 10px;
+  margin-left: 0px;
+}
+
+#img2 {
+  width: 205px;
+  height: 305px;
+  z-index: 1;
+  position: absolute;
+  margin-left: 500px;
+  margin-top: 10px;
+  margin-left: 210px;
+}
+
+#label1 {
+  z-index: 1;
+  position: absolute;
+  margin-left: 230px;
+  margin-top: 280px;
+  margin-left: 0px;
+}
+
+#label2 {
+  z-index: 1;
+  position: absolute;
+  margin-left: 320px;
+  margin-top: 280px;
+  margin-left: 206.5px;
+}
+
+#txtbox1 {
+  z-index: 2;
+  position: absolute;
+  margin-left: 230px;
+  margin-top: 300px;
+  margin-left: 145px;
+
+}
+#textboxid{
+  height:40px;
+  width: 42px;
+  font-size:14pt;
+}
+
+#txtbox2 {
+  z-index: 1;
+  position: absolute;
+  margin-left: 230px;
+  margin-top: 300px;
+  margin-left: 215px;
+}
+
+#submit {
+  z-index: 1;
+  position: absolute;
+  margin-left: 438px;
+  margin-top: 350px;
+  margin-left: 175px;
+
+
+}
+
+.title {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 16px;
+  letter-spacing: 5px;
+}
